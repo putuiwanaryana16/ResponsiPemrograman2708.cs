@@ -6,8 +6,8 @@ namespace ResponsiPemrogaman2708
     {
         static void Main(string[] args)
         {
-            Karyawan karyawan = new Karyawan(1, 19112708, "putu iwan ", 3000000);
-            Karyawan karyawan2 = new Karyawan(2, 19112708, "putu iwan", 2000000);
+            Karyawan karyawan = new Karyawan(1, 19112708, "putu iwan ", 4000000);
+            Karyawan karyawan2 = new Karyawan(2, 19112708, "putu iwan", 9000000);
 
             Console.WriteLine("No NIK \t\tNama \t\tGaji");
             Console.WriteLine("----------------------------------------");
